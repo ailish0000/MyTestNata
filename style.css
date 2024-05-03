@@ -1,1 +1,11 @@
-
+body {
+        background-image: url("https://i.ibb.co/xhmK03y/image.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: block;
+        align-content: center;
+    }
+    p {
+        color: white;
+        font-size: 50px;
+    }
